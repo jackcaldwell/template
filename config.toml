@@ -1,0 +1,12 @@
+[db]
+dsn = "user=postgres password=PBi7nJEc4G dbname=template port=5432 sslmode=disable"
+
+[http]
+addr = ":8080"
+domain = ""
+hash-key = "E67B6DB7C182AEC911AC6F97DEA8CEBD4A3B621FE492BFC992706E210F43351C"
+block-key = "26D3C840270104BC0BF0D5C9AC7155EFBD779A034301C30E34F70144B3D725E6"
+
+[github]
+client-id = "69032f90bfb0111f6257"
+client-secret = "20eb603be76c61b82069d73f1aa9c2c8cb836e4f"
